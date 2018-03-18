@@ -1,0 +1,13 @@
+{
+  "name": "@j/how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {},
+  "repository": "it's inside another repo"
+}
